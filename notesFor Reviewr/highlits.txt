@@ -1,0 +1,8 @@
+  ## Highlights for reviewe :D ^_^ 
+     1) updates in dev dependencies and dependencies done correctly
+
+     2) i changed the "any" return type with another correctly data type 
+
+     3) in all methods i define all return types
+
+     4) in testing image processing function my code logic very difficult to test it :( 
